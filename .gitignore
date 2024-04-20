@@ -1,0 +1,4 @@
+venv/
+frontend_app/node_modules
+frontend_app/.angular
+frontend_app/.vscode
